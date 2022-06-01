@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 christy ser
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 ɪᝒ⸼ߍᴍ      ❤️҉     ᴄʜʀɪsᴛʏ
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -22,15 +22,15 @@ global.APIKeys = {
 global.owner = ['917034685001']
 global.premium = ['917034685001']
 global.ownernomer = '917034685001'
-global.ownername = 'christy ser'
+global.ownername = 'ɪᝒ⸼ߍᴍ      ❤️҉     ᴄʜʀɪsᴛʏ'
 global.botname = 'christy ser'
-global.footer = '©christyser.'
+global.footer = '©ɪᝒ⸼ߍᴍ      ❤️҉     ᴄʜʀɪsᴛʏ.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'christy ser'
-global.author = 'christy ser'
+global.packname = 'ɪᝒ⸼ߍᴍ      ❤️҉     ᴄʜʀɪsᴛʏ'
+global.author = 'ɪᝒ⸼ߍᴍ      ❤️҉     ᴄʜʀɪsᴛʏ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
